@@ -102,9 +102,3 @@ prefix `NoProp_` written by its runner.
 python -m analysis.summary_tables        # mean / std across datasets per configuration
 python -m analysis.readout_dd            # flatten vs GAP readout, difference-in-differences
 ```
-
-## License
-
-Apache License 2.0, see `LICENSE` and `NOTICE`. Files in `bpfree/` marked with the UCLouvain
-copyright header are derived from the DRTP code base by C. Frenkel and M. Lefebvre
-(https://github.com/ChFrenkel/DirectRandomTargetProjection).
